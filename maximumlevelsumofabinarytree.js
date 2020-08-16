@@ -1,4 +1,5 @@
-//
+//Objective is to find the level index in a binary tree where the max sum
+//of all of the levels occurs
 
 class Node {
     constructor(left = null, right = null, val) {
